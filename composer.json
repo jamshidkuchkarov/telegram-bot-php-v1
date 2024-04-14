@@ -1,0 +1,14 @@
+{
+    "name": "jamshidbek/telegram-bot-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "jamshid"
+        }
+    ],
+    "require": {}
+}
